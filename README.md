@@ -48,15 +48,6 @@
 
 ---
 
-## 🏆 GitHub Trophy
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Braimer&theme=gruvbox&column=6&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 📊 GitHub Stats
 
