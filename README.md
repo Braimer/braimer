@@ -3,7 +3,7 @@
 🚀 Building projects. Breaking things. Fixing them better.
 
 ## 🧠 About Me
-- 💻 Junior Backend Developer specializing in Python & Django
+- 💻 Junior Developer specializing in Python & Django
 - 🌱 Currently learning: Web security, Clean architecture, Advanced Django
 - 🔭 Working on: MindMatch, PostPlane, StudyStream, and Electra
 - 💬 Ask me about: Django, APIs, backend design, and project structure
